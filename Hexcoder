@@ -1,22 +1,4 @@
 
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>DDecode - Hex,Octal,HTML Decoder</title>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta name="author" content="Daniel B. Cid - http://dcid.me" />
-<meta name="creator" content="Daniel B. Cid - http://dcid.me" />
-<meta name="copyright" content="Copyright (c) 2010-2012 by Daniel B. Cid" />
-<meta name="keywords" content="decoder,hex,octal,html" />
-<meta name="description" content="DDecode - Hex,Oct and HTML decoder" />
-<meta name="robots" content="index,follow" />
-</head>
-
-<body>
-<div style="position:relative; left:5px;">
-
-
 <pre><a href="/">Home</a>  |  <a href="/phpdecoder">PHP Decoder</a>  |  <a href="/hexdecoder/">Hex Decoder</a>  |  Hex Decoder - Decoding Hex, Oct and similars.
 -----------------------------------------------------------
 | | | | _____  __ |  _ \  ___  ___ ___   __| | ___ _ __ 
@@ -555,9 +537,3 @@ Very useful for webmasters trying to identify what a specific code is doing (fro
 Copyright 2012 Sucuri.net -- All rights reserved
 <a href="http://ddecode.com/">Home</a> - <a href="http://sucuri.net">Sucuri</a>
 </pre>
-
-</div>
-
-</body>
-</html>
-
